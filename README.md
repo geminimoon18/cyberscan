@@ -1,27 +1,31 @@
 # 🔐 CyberScan – Python Network Security Toolkit
 
-CyberScan is a simple Python-based cybersecurity toolkit.
+CyberScan is a lightweight Python-based cybersecurity toolkit designed for educational and learning purposes.
 
-## Features
+It provides essential network security utilities in a simple command-line interface.
 
-- Port Scanner
-- Password Strength Checker
-- Banner Grabber
+---
 
-## Installation
+## 🚀 Features
 
-Clone the repository:
+✔ Port Scanner  
+✔ Password Strength Checker  
+✔ Banner Grabber  
+✔ IP Geolocation Lookup  
 
-git clone https://github.com/yourusername/cyberscan.git
+---
 
-cd cyberscan
+## 🛠 Built With
 
-Run:
+- Python 3
+- Socket Library
+- Requests Library
 
-python cyberscan.py
+---
 
-## Disclaimer
+## 📦 Installation
 
-This tool is for educational purposes only.
-Do not scan systems without permission.
+### 1️⃣ Clone the Repository
 
+```bash
+git clone https://github.com/geminimoon18/cyberscan.git
