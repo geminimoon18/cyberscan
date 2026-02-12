@@ -32,10 +32,6 @@ git clone https://github.com/geminimoon18/cyberscan.git
 
 ---
 
-
-
-
-
 ## ⚠️ Disclaimer
 
 This project is developed strictly for **educational purposes only**.
@@ -48,3 +44,8 @@ Unauthorized scanning may be illegal.
 ## 👨‍💻 Author
 
 **R G RUCHISHREE**
+
+
+
+
+
