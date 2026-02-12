@@ -23,15 +23,6 @@ It provides essential network security utilities in a simple command-line interf
 
 ---
 
-## 📦 Installation
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/geminimoon18/cyberscan.git
-
-
-
 ## ⚠️ Disclaimer
 
 This project is developed strictly for **educational purposes only**.
@@ -44,6 +35,15 @@ Unauthorized scanning may be illegal.
 ## 👨‍💻 Author
 
 **R G RUCHISHREE**
+
+
+## 📦 Installation
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/geminimoon18/cyberscan.git
+---
 
 
 
